@@ -1,2 +1,6 @@
-Project Description:-
+# Project Description:-
 Bank Loan Case Study is about finding trends and insights about loan application dataset from the bank. In this project, I have used the application_data and previous_application dataset provided by trainity and drawn some conclusions. The aim of this project is to identify the customers who are capable of repaying loans. I have provided insights to topics and answered the questions asked by the management team. I have used Google Collab and Google sheets for data analytics and data visualization. In this case study, I will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+# Approach:-
+Firstly, I have used the basics of the data analytics process to clean the raw data and ask questions from cleaned data. Then, I have used data wrangling to make small data frames for relevant insights to answer all the possible questions. I have used python programming language to write the procedure, functions and creating charts/plots. Finally, I combined all the results and visuals into this report.
+# Tech-Stack Used:-
+I have used the web based application “Google collab” which is an online python notebook for performing data analytics using python programming language and “Google Sheets” which is part of google online docs for performing various functions on spreadsheets. Both of these software provide ease of work and make data sharing and real time tracking very easy.
